@@ -1,6 +1,5 @@
 /**
 	* Created by SeungWanJo on 2017. 8. 17.
-	* Department : Ad Infra Dev. Team
 	*/
 object MakeSS {
 

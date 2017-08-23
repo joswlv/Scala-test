@@ -2,7 +2,6 @@ package study
 
 /**
 	* Created by SeungWanJo on 2017. 8. 22.
-	* Department : Ad Infra Dev. Team
 	*/
 object fib {
 	def fibo(n: Int): Int = {

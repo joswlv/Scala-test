@@ -1,6 +1,5 @@
 /**
 	* Created by SeungWanJo on 2017. 8. 21.
-	* Department : Ad Infra Dev. Team
 	*/
 object MakeHDFSPath extends App{
 	def makePath(day: String, hour: Int, action:String):Array[String] = {
