@@ -1,4 +1,4 @@
-package study
+package study.ch01
 
 /**
 	* Created by SeungWanJo on 2017. 8. 22.
